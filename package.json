@@ -1,0 +1,10 @@
+{
+  "name": "jdc-api",
+  "version": "0.0.1",
+  "description": "JD Cloud Router Api",
+  "main": "index.mjs",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC"
+}
