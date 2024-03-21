@@ -3,8 +3,23 @@
   "version": "0.0.1",
   "description": "JD Cloud Router Api",
   "main": "index.mjs",
-  "scripts": {
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luokavin/jdc-api.git"
   },
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "jd",
+    "jdc",
+    "router",
+    "jdc-router",
+    "api",
+    "jd-cloud-wireless-treasure"
+  ],
+  "author": "luokavin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luokavin/jdc-api/issues"
+  },
+  "homepage": "https://github.com/Luokavin/jdc-api#readme"
 }
