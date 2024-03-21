@@ -200,7 +200,7 @@ export default class JdcApi {
     return this._requestApi(['jdcapi.static', 'web_get_device_list', {}]);
   }
 
-  getMacfilterInfo() {
+  getMacFilterInfo() {
     return this._requestApi(['jdcapi.static', 'get_macfilter_info', {}]);
   }
 
