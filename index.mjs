@@ -8,7 +8,7 @@ export default class JdcApi {
   _password = undefined;
   _loginTimeout = 600;
   _connected = false;
-  __session = undefined;
+  _session = undefined;
   _lastRequestTime = undefined;
 
   constructor(host, password, options = null) {
